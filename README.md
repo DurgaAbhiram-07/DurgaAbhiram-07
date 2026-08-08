@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
 I am a dedicated **Artificial Intelligence** undergraduate student with a strong passion for software engineering, machine learning, and building scalable applications. I enjoy tackling complex algorithms, designing intuitive user experiences, and engineering intelligent software solutions that add real value.
 
@@ -82,8 +82,8 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
         <b>Tech Stack:</b> Node.js, JavaScript, HTML5, CSS3, MySQL
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/CampusMarketplace"><b>📂 GitHub Repository</b></a> |
-        <a href="#"><b>🔗 Live Demo</b></a>
+        <a href="https://github.com/DurgaAbhiram-07/CampusMarketplace"><b>📂 GitHub Repository</b></a> |
+        <a href="https://github.com/DurgaAbhiram-07/CampusMarketplace"><b>🔗 Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -98,8 +98,8 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
         <b>Tech Stack:</b> Java, JavaScript, Data Structures & Algorithms, HTML/CSS
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Campus-Navigation-System"><b>📂 GitHub Repository</b></a> |
-        <a href="#"><b>🔗 Live Demo</b></a>
+        <a href="https://github.com/DurgaAbhiram-07/Campus-Navigation-System"><b>📂 GitHub Repository</b></a> |
+        <a href="https://github.com/DurgaAbhiram-07/Campus-Navigation-System"><b>🔗 Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -116,8 +116,8 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
         <b>Tech Stack:</b> Full Stack Development, JavaScript, MySQL, HTML5, CSS3
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Blood-Donor-Finder"><b>📂 GitHub Repository</b></a> |
-        <a href="#"><b>🔗 Live Demo</b></a>
+        <a href="https://github.com/DurgaAbhiram-07/Blood-Donor-Finder"><b>📂 GitHub Repository</b></a> |
+        <a href="https://github.com/DurgaAbhiram-07/Blood-Donor-Finder"><b>🔗 Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -132,8 +132,8 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
         <b>Tech Stack:</b> Artificial Intelligence, Machine Learning, Computer Vision Logic
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/AI-Smart-Car-Parking-System"><b>📂 GitHub Repository</b></a> |
-        <a href="#"><b>🔗 Live Demo</b></a>
+        <a href="https://github.com/DurgaAbhiram-07/AI-Smart-Car-Parking-System"><b>📂 GitHub Repository</b></a> |
+        <a href="https://github.com/DurgaAbhiram-07/AI-Smart-Car-Parking-System"><b>🔗 Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -143,15 +143,13 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
 
 ## 📖 Currently Learning
 
-<p>
-  <ul>
-    <li>🤖 <b>Artificial Intelligence & Neural Networks:</b> Deepening foundational knowledge in modern AI architectures.</li>
-    <li>📊 <b>Machine Learning:</b> Building predictive models, data preprocessing, and algorithm optimization.</li>
-    <li>⚡ <b>Data Structures & Algorithms (DSA):</b> Enhancing problem-solving efficiency and algorithmic thinking in Java.</li>
-    <li>🌐 <b>Full Stack Web Development:</b> Master modern frontend & backend architectures for scalable software.</li>
-    <li>☕ <b>Java & Spring Boot:</b> Exploring enterprise-grade backend microservices and RESTful API development.</li>
-  </ul>
-</p>
+<ul>
+  <li>🤖 <b>Artificial Intelligence & Neural Networks:</b> Deepening foundational knowledge in modern AI architectures.</li>
+  <li>📊 <b>Machine Learning:</b> Building predictive models, data preprocessing, and algorithm optimization.</li>
+  <li>⚡ <b>Data Structures & Algorithms (DSA):</b> Enhancing problem-solving efficiency and algorithmic thinking in Java.</li>
+  <li>🌐 <b>Full Stack Web Development:</b> Mastering modern frontend & backend architectures for scalable software.</li>
+  <li>☕ <b>Java & Spring Boot:</b> Exploring enterprise-grade backend microservices and RESTful API development.</li>
+</ul>
 
 ---
 
@@ -159,15 +157,13 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
 
 <div align="center">
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&title_color=00F2FE&icon_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true&count_private=true" alt="P. Durga Abhi Ram's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&title_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgaAbhiram-07&show_icons=true&theme=dark&title_color=00F2FE&icon_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true&count_private=true" alt="P. Durga Abhi Ram's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaAbhiram-07&layout=compact&theme=dark&title_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true" alt="Most Used Languages" />
   </p>
   <p>
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=090D16&border=00F2FE&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sidenums=CCCCCC&sidebits=CCCCCC&dates=CCCCCC" alt="GitHub Streak" />
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaAbhiram-07&theme=dark&background=090D16&border=00F2FE&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sidenums=CCCCCC&sidebits=CCCCCC&dates=CCCCCC" alt="GitHub Streak" />
   </p>
 </div>
-
-> *Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to load live dynamic stats.*
 
 ---
 
@@ -182,16 +178,16 @@ I am a dedicated **Artificial Intelligence** undergraduate student with a strong
 
 ## 📬 Connect With Me
 
-<p.align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<p align="center">
+  <a href="https://linkedin.com/in/durgaabhiram">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/DurgaAbhiram-07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abhirampulicharla414@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
