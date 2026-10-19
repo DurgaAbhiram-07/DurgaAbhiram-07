@@ -1,201 +1,230 @@
-# <h1 align="center">Hi 👋, I'm P. Durga Abhi Ram</h1>
 
-<p align="center">
-  <b>Artificial Intelligence Student | Aspiring Software Engineer</b>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=650&lines=Artificial+Intelligence+Student;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%26+Full-Stack+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Passionate about leveraging Artificial Intelligence & modern software engineering to solve complex real-world problems."</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-00F2FE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20(2028)-7928CA?style=flat-square&logo=education&logoColor=white" alt="Education" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-0070F3?style=flat-square&logo=github&logoColor=white" alt="Status" />
-</p>
-
----
-
-## 👤 About Me
-
-I am a dedicated **Artificial Intelligence** undergraduate student with a strong passion for software engineering, machine learning, and building scalable applications. I enjoy tackling complex algorithms, designing intuitive user experiences, and engineering intelligent software solutions that add real value.
-
-- 🎓 **Education:** Pursuing B.Tech in **Artificial Intelligence** (Expected Graduation: **2028**)
-- 🏛️ **College:** Chaitanya Engineering College
-- 🎓 **University:** JNTU-GV
-- 📍 **Location:** Visakhapatnam, Andhra Pradesh, India
-- 🎯 **Focus Areas:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Full Stack Web Development
-- ⚡ **Goal:** Aspiring Software Engineer building high-impact AI-driven applications
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages & Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Frameworks & Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-00F2FE?style=for-the-badge&logo=openai&logoColor=black" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-</p>
-
-### Version Control & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Campus OLX / Campus Marketplace</h3>
-      <p align="center">
-        <i>Localized Peer-to-Peer Student Marketplace</i>
-      </p>
-      <p>
-        A dedicated campus-only web platform for students to buy, sell, and exchange services and items safely. Features secure domain-based authentication and abuse prevention mechanisms.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Node.js, JavaScript, HTML5, CSS3, MySQL
-      </p>
-      <p align="center">
-        <a href="https://github.com/DurgaAbhiram-07/CampusMarketplace"><b>📂 GitHub Repository</b></a> |
-        <a href="https://github.com/DurgaAbhiram-07/CampusMarketplace"><b>🔗 Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ Campus Navigation System</h3>
-      <p align="center">
-        <i>Smart Campus Map & Route Finder</i>
-      </p>
-      <p>
-        An interactive navigation application designed to assist students, staff, and campus guests in navigating across campus buildings, departments, and key facilities efficiently.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Java, JavaScript, Data Structures & Algorithms, HTML/CSS
-      </p>
-      <p align="center">
-        <a href="https://github.com/DurgaAbhiram-07/Campus-Navigation-System"><b>📂 GitHub Repository</b></a> |
-        <a href="https://github.com/DurgaAbhiram-07/Campus-Navigation-System"><b>🔗 Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🩸 Blood Donor Finder</h3>
-      <p align="center">
-        <i>Emergency Blood Donation Connector</i>
-      </p>
-      <p>
-        A vital health-tech portal connecting patients needing urgent blood transfusions with registered local donors based on blood group compatibility and location.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Full Stack Development, JavaScript, MySQL, HTML5, CSS3
-      </p>
-      <p align="center">
-        <a href="https://github.com/DurgaAbhiram-07/Blood-Donor-Finder"><b>📂 GitHub Repository</b></a> |
-        <a href="https://github.com/DurgaAbhiram-07/Blood-Donor-Finder"><b>🔗 Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 AI Smart Car Parking System</h3>
-      <p align="center">
-        <i>Intelligent Parking Allocation Solution</i>
-      </p>
-      <p>
-        An automated AI-assisted parking management system that detects available parking spots in real-time and optimizes vehicle placement for maximum space efficiency.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Artificial Intelligence, Machine Learning, Computer Vision Logic
-      </p>
-      <p align="center">
-        <a href="https://github.com/DurgaAbhiram-07/AI-Smart-Car-Parking-System"><b>📂 GitHub Repository</b></a> |
-        <a href="https://github.com/DurgaAbhiram-07/AI-Smart-Car-Parking-System"><b>🔗 Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📖 Currently Learning
-
-<ul>
-  <li>🤖 <b>Artificial Intelligence & Neural Networks:</b> Deepening foundational knowledge in modern AI architectures.</li>
-  <li>📊 <b>Machine Learning:</b> Building predictive models, data preprocessing, and algorithm optimization.</li>
-  <li>⚡ <b>Data Structures & Algorithms (DSA):</b> Enhancing problem-solving efficiency and algorithmic thinking in Java.</li>
-  <li>🌐 <b>Full Stack Web Development:</b> Mastering modern frontend & backend architectures for scalable software.</li>
-  <li>☕ <b>Java & Spring Boot:</b> Exploring enterprise-grade backend microservices and RESTful API development.</li>
-</ul>
-
----
-
-## 📊 GitHub Statistics
+<!--
+  P. Durga Abhi Ram | GitHub Profile README
+  Theme: Midnight Navy + Electric Cyan
+  Typography: Fira Code + elegant script-inspired accents
+-->
 
 <div align="center">
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgaAbhiram-07&show_icons=true&theme=dark&title_color=00F2FE&icon_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true&count_private=true" alt="P. Durga Abhi Ram's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaAbhiram-07&layout=compact&theme=dark&title_color=00F2FE&text_color=CCCCCC&bg_color=090D16&hide_border=true" alt="Most Used Languages" />
-  </p>
-  <p>
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaAbhiram-07&theme=dark&background=090D16&border=00F2FE&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE&sidenums=CCCCCC&sidebits=CCCCCC&dates=CCCCCC" alt="GitHub Streak" />
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:14253D,100:00F2FE&height=220&section=header&text=P.%20Durga%20Abhi%20Ram&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Profile banner"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Aspiring+Software+Engineer;Building+Intelligent+Applications;Learning.+Building.+Innovating." alt="Typing introduction"/>
+</a>
+
+<br/>
+
+*“Turning curiosity into code, and ideas into intelligent solutions.”*
+
+<br/>
+
+<a href="https://github.com/DurgaAbhiram-07">
+  <img src="https://img.shields.io/badge/GitHub-DurgaAbhiram--07-111827?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/durgaabhiram">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-14253D?style=flat-square&logo=googlemaps&logoColor=00F2FE" alt="Location"/>
+<img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%7C%202028-14253D?style=flat-square&logo=academia&logoColor=00F2FE" alt="Education"/>
+<img src="https://img.shields.io/badge/Open_to-Collaborations-14253D?style=flat-square&logo=github&logoColor=00F2FE" alt="Collaborations"/>
+
 </div>
 
 ---
 
-## 🎯 Career Goals & Ambitions
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-- 💻 **Become a Skilled Software Engineer:** Build robust, clean, and maintainable software systems.
-- 🤖 **Build Real-World AI Applications:** Apply machine learning models to solve practical, high-value domain problems.
-- 🧩 **Master Problem Solving:** Continually hone Data Structures & Algorithms proficiency.
-- 🌐 **Contribute to Open Source:** Collaborate on impactful developer tools and community-driven projects.
+Hello! I'm **P. Durga Abhi Ram**, an Artificial Intelligence undergraduate at **Chaitanya Engineering College**, affiliated with **JNTU-GV**.
+
+I'm passionate about software engineering, artificial intelligence, machine learning, and developing applications that solve real-world problems.
+
+- 🎓 **Degree:** B.Tech in Artificial Intelligence
+- 🏛️ **College:** Chaitanya Engineering College
+- 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India
+- 🤖 **Interests:** AI, Machine Learning, and intelligent systems
+- 💻 **Development:** Full-stack applications and backend engineering
+- 🧠 **Problem solving:** Data Structures and Algorithms
+- 🎯 **Mission:** Build useful, scalable, and impactful technology.
 
 ---
 
-## 📬 Connect With Me
+## 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
-<p align="center">
-  <a href="https://linkedin.com/in/durgaabhiram">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/DurgaAbhiram-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhirampulicharla414@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### Languages & Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS"/>
 </p>
 
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql" alt="Spring Boot, Node.js and MySQL"/>
+</p>
+
+### AI, ML & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode" alt="Python, TensorFlow, Git, GitHub and VS Code"/>
+</p>
+
+> **Note:** These icons represent technologies I work with or am exploring. My experience level varies by technology.
+
 ---
 
+## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Campus Marketplace
+
+**A student-focused peer-to-peer marketplace**
+
+A campus-oriented platform concept for students to buy, sell, and exchange textbooks, electronics, furniture, and services.
+
+**Focus areas**
+- Student authentication and roles
+- Product listings and discovery
+- Campus-focused buying and selling
+
+**Technologies:** React, TypeScript, Spring Boot, Supabase, MySQL
+
+<a href="https://github.com/DurgaAbhiram-07/CampusMarketplace">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Campus Navigation System
+
+**Smarter navigation inside a college campus**
+
+A navigation project designed to help students, faculty, and visitors find campus buildings, laboratories, and essential facilities.
+
+**Focus areas**
+- Campus maps and location discovery
+- Route finding using graph algorithms
+- Accessible and intuitive navigation
+
+**Technologies:** Java, JavaScript, DSA, HTML, CSS
+
+<a href="https://github.com/DurgaAbhiram-07/Campus-Navigation-System">Explore Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 Blood Donor Finder
+
+**Connecting blood donors with people in need**
+
+A health-tech project concept to help people discover potential blood donors using blood group and location information.
+
+**Focus areas**
+- Donor registration
+- Blood group filtering
+- Location-based discovery
+
+**Technologies:** JavaScript, MySQL, HTML, CSS
+
+<a href="https://github.com/DurgaAbhiram-07/Blood-Donor-Finder">Explore Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 AI Smart Car Parking System
+
+**Intelligent parking space management**
+
+An AI-oriented project concept for detecting parking availability and improving parking space utilization.
+
+**Focus areas**
+- Parking space detection
+- Computer vision
+- Availability monitoring
+
+**Technologies:** AI, Machine Learning, Computer Vision
+
+<a href="https://github.com/DurgaAbhiram-07/AI-Smart-Car-Parking-System">Explore Repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
+
 <div align="center">
-  <br />
-  <p><b>Building. Learning. Creating with AI.</b></p>
-  <p>✨ <i>Crafted with dedication by P. Durga Abhi Ram</i> ✨</p>
+
+| Area | Learning Focus |
+|:---|:---|
+| 🤖 Artificial Intelligence | Neural networks and intelligent applications |
+| 📊 Machine Learning | Data preprocessing, model training, and evaluation |
+| 🧩 Data Structures & Algorithms | Problem solving and algorithmic thinking |
+| ☕ Java & Spring Boot | REST APIs and backend architecture |
+| 🌐 Full-Stack Development | Responsive interfaces and database integration |
+
+</div>
+
+---
+
+## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DurgaAbhiram-07&show_icons=true&hide_border=true&bg_color=090D16&title_color=00F2FE&icon_color=00F2FE&text_color=D1D5DB&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaAbhiram-07&layout=compact&hide_border=true&bg_color=090D16&title_color=00F2FE&text_color=D1D5DB" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=DurgaAbhiram-07&theme=dark&hide_border=true&background=090D16&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgaAbhiram-07&bg_color=090D16&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 𝑪𝒂𝒓𝒆𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏
+
+- 💻 Become a skilled software engineer.
+- 🤖 Develop practical AI-powered applications.
+- 🧠 Strengthen DSA and problem-solving skills.
+- 🌍 Contribute to meaningful open-source projects.
+- 🚀 Collaborate with developers and build impactful products.
+
+---
+
+## 𝑳𝒆𝒕'𝒔 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
+
+<div align="center">
+
+<a href="https://github.com/DurgaAbhiram-07">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/durgaabhiram">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:abhirampulicharla414@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:14253D,100:090D16&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+**Building with purpose. Learning with curiosity. Creating with AI.**
+
+*𝒞𝑜𝒹𝑒 • 𝒞𝓇𝑒𝒶𝓉𝑒 • 𝒞𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝑒*
+
 </div>
